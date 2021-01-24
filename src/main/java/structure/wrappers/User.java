@@ -1,11 +1,20 @@
 package structure.wrappers;
 
 
+/*
+Задание
 
+Написать адаптер для консольноо ввода под передачу класса BufferedReader
+Написать декоратор, который позволяет помимо вывода в консоль писать в фаил.
+Написать прокси, который переводит введенное слово в UpperCase.
+
+ */
+
+import java.io.IOException;
 
 public class User {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
 
         Printer wrapMe = new WrapMe();
 //      Декоратор предоставляет расширенный интерфейс.

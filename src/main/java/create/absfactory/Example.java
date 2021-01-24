@@ -3,6 +3,13 @@ package create.absfactory;
 
 import java.util.Random;
 
+/*
+Задание
+Следать 3 фабрики мебели, модерн, барокко и классицизм
+Клиента который умеет покупать мебель
+от завода изготовителя и садится на нее.
+ */
+
 public class Example {
 
     public static void main(String[] args) {

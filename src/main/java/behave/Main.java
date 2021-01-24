@@ -1,7 +1,11 @@
 package behave;
 
-import java.util.Arrays;
-import java.util.List;
+    /*
+    Написать релизацию итератора для матрицы (2 мерного массива) он должен выводить элементы
+    в следующем порядке
+    {{1,2,3},
+    {4,5,6}}
+    */
 
 public class Main {
 

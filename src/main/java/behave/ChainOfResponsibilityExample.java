@@ -1,5 +1,10 @@
 package behave;
 
+    /*
+    Задание написать логгеры, которые пишут в разные фаилы,
+    написать простенькую программу где эмулирована работа
+    в которй идут записи.
+     */
 
 public class ChainOfResponsibilityExample {
     public static void main(String[] args) {
